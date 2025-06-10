@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FuelBot/static/css/main.ac66f705.css",
-    "main.js": "/FuelBot/static/js/main.395da7f1.js",
+    "main.js": "/FuelBot/static/js/main.e4088f5f.js",
     "static/js/453.70234b92.chunk.js": "/FuelBot/static/js/453.70234b92.chunk.js",
     "index.html": "/FuelBot/index.html",
     "main.ac66f705.css.map": "/FuelBot/static/css/main.ac66f705.css.map",
-    "main.395da7f1.js.map": "/FuelBot/static/js/main.395da7f1.js.map",
+    "main.e4088f5f.js.map": "/FuelBot/static/js/main.e4088f5f.js.map",
     "453.70234b92.chunk.js.map": "/FuelBot/static/js/453.70234b92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac66f705.css",
-    "static/js/main.395da7f1.js"
+    "static/js/main.e4088f5f.js"
   ]
 }
